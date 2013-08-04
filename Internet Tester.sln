@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet Tester", "Internet Tester\Internet Tester.csproj", "{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Internet Tester Setup", "Internet Tester Setup\Internet Tester Setup.vdproj", "{6152607F-6DF9-4BEF-8DB7-F36009556241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Debug|x64.ActiveCfg = Release|x64
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Debug|x64.Build.0 = Release|x64
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Debug|x86.ActiveCfg = Debug|x86
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Debug|x86.Build.0 = Debug|x86
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Release|x64.ActiveCfg = Release|x64
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Release|x64.Build.0 = Release|x64
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Release|x86.ActiveCfg = Release|x86
+		{1563A1A0-48AA-4C43-9BA0-9808D2C82A85}.Release|x86.Build.0 = Release|x86
+		{6152607F-6DF9-4BEF-8DB7-F36009556241}.Debug|x64.ActiveCfg = Debug
+		{6152607F-6DF9-4BEF-8DB7-F36009556241}.Debug|x86.ActiveCfg = Debug
+		{6152607F-6DF9-4BEF-8DB7-F36009556241}.Release|x64.ActiveCfg = Release
+		{6152607F-6DF9-4BEF-8DB7-F36009556241}.Release|x64.Build.0 = Release
+		{6152607F-6DF9-4BEF-8DB7-F36009556241}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
