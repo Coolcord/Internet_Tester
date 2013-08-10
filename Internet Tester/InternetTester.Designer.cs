@@ -1,6 +1,6 @@
 ﻿namespace Internet_Tester
 {
-    partial class Form1
+    partial class InternetTester
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InternetTester));
             this.lblStatus = new System.Windows.Forms.Label();
             this.InternetTestBW = new System.ComponentModel.BackgroundWorker();
             this.pbStatus = new System.Windows.Forms.PictureBox();

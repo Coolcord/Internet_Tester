@@ -1,7 +1,7 @@
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\bin\x64\Release\Internet Tester.exe
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\bin\x64\Release\Internet Tester.pdb
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\ResolveAssemblyReference.cache
-e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\Internet_Tester.Form1.resources
+e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\Internet_Tester.InternetTester.resources
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\Internet_Tester.Properties.Resources.resources
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\GenerateResource.read.1.tlog
 e:\documents\visual studio 2010\Projects\Internet Tester\Internet Tester\obj\x64\Release\GenerateResource.write.1.tlog

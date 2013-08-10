@@ -63,14 +63,14 @@ using System.Windows.Forms;
 
 namespace Internet_Tester
 {
-    public partial class Form1 : Form
+    public partial class InternetTester : Form
     {
         Boolean FirstConnection = true;
         Boolean PreviouslyConnected = false;
         string host = "www.google.com";
         int DeathCount = 0;
 
-        public Form1()
+        public InternetTester()
         {
             InitializeComponent();
             InternetTestBW.RunWorkerAsync();
@@ -104,6 +104,7 @@ namespace Internet_Tester
             aboutText.Font = aboutFont;
             Button btnOk = new Button() { Width = 100, Height = 30, Text = "OK", Location = new Point(150, 130), ImageAlign = ContentAlignment.MiddleCenter, TextAlign = ContentAlignment.MiddleCenter };
             btnOk.Click += (btnSender, btnE) => aboutForm.Close(); //click ok to close
+            aboutForm.AcceptButton = btnOk;
             aboutForm.Controls.Add(aboutText);
             aboutForm.Controls.Add(btnOk);
             aboutForm.ShowDialog();
