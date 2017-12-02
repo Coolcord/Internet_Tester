@@ -17,4 +17,4 @@ Ultimately, the goal of this application is to save the user from having
 to go to the command prompt to check the Internet connection.
 
 If you wish to contact me about the application, or anything of the like,
-feel free to send me an email at coolcord24@gmail.com
+feel free to send me an email at coolcord24@tutanota.com
